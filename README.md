@@ -81,4 +81,16 @@ Built solo from July 2026 (120+ commits), with **Claude Code as a pair programme
 
 ## Screenshots
 
-_Coming soon._
+The product is built for customers in Argentina, so the UI is in Spanish. Taken from the live site on 20 Nov 2026. The admin system is not shown because it contains customer data.
+
+**Landing page**
+
+![Landing page](docs/screenshots/home-desktop.jpg)
+
+**Quote request, no account needed**
+
+![Quote request form](docs/screenshots/cotizar-desktop.jpg)
+
+**Mobile: landing, quote form, and the AI assistant quoting "Premium bar for 120 guests"**
+
+![Mobile screens](docs/screenshots/mobile.jpg)
